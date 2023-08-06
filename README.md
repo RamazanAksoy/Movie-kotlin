@@ -1,7 +1,7 @@
 # Movie-kotlin
 
 
-<img src="https://github.com/RamazanAksoy/Movie-kotlin/assets/61667679/8e8f3137-f8f4-4b38-8b68-f6bbc3984a7e" width="324">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/RamazanAksoy/Movie-kotlin/assets/61667679/4160ff4e-cae2-42bf-9faf-50058dcf177c" width="324">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/RamazanAksoy/Movie-kotlin/assets/61667679/e6f3e5f6-aa81-4f34-99bc-e650cabbd6a8" width="324">
 
 
